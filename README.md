@@ -2,9 +2,9 @@ David C. Luo
 
 Welcome to my webpage! I am currently a fourth-year Ph.D. student at the University of Minnesota working with Dihua Jiang.
 
-## Getting Started
+## Research
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+I am interested in representations of *p*-adic groups, construction of supercuspidal representations, and the local Langlands program. 
 
 ### Prerequisites
 
