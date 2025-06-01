@@ -6,9 +6,9 @@ Welcome to my webpage! I am currently a fourth-year Ph.D. student at the Univers
 
 I am interested in representations of *p*-adic groups, construction of supercuspidal representations, and the local Langlands program. 
 
-### Prerequisites
+## Papers
 
-The things you need before installing the software.
+Here is a list of my publications and preprints. 
 
 * You need this
 * And you need this
