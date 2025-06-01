@@ -8,53 +8,8 @@ I am interested in representations of *p*-adic groups, construction of supercusp
 
 ## Papers
 
-Here is a list of my publications and preprints. 
+Here is a list of my publications and preprints:
 
-* You need this
-* And you need this
-* Oh, and don't forget this
-
-### Installation
-
-A step by step guide that will tell you how to get the development environment up and running.
-
-```
-$ First step
-$ Another step
-$ Final step
-```
-
-## Usage
-
-A few examples of useful commands and/or tasks.
-
-```
-$ First example
-$ Second example
-$ And keep this in mind
-```
-
-## Deployment
-
-Additional notes on how to deploy this on a live or release system. Explaining the most important branches, what pipelines they trigger and how to update the database (if anything special).
-
-### Server
-
-* Live:
-* Release:
-* Development:
-
-### Branches
-
-* Master:
-* Feature:
-* Bugfix:
-* etc...
-
-## Additional Documentation and Acknowledgments
-
-* Project folder on server:
-* Confluence link:
-* Asana board:
-* etc...
+Preprints
+* $\mathsf{On \; the \; Local \; Converse \; Theorem \; for \; Depth \; \frac{1}{N} \; Supercuspidal \; Representations \; of \; \text{GL}(2N, F)}$, with Shaun Stevens, \texttt{arXiv:2505.22357} (2025), 22 pages.
 
