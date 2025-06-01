@@ -1,4 +1,4 @@
-David C. Luo
+## David C. Luo
 
 Welcome to my webpage! I am currently a fourth-year Ph.D. student at the University of Minnesota working with Dihua Jiang.
 
